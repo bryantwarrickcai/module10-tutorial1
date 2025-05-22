@@ -1,4 +1,4 @@
-# Module 10
+# Module 10, Tutorial 1
 ## 1.2 Understanding how it works
 ![1.2 Understanding how it works](1-2.png)
 
